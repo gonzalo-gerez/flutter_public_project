@@ -1,16 +1,5 @@
 # flutter_public_repository
 
-A new Flutter project.
+This is an small flutter public project which shows a list of Posts and navigate to a post's detail using BLoC, Clean Architecture, SOLID principles.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/dd0a54e6-294c-4fcc-8727-a3cdb7023abc" alt="Databay showcase gif" title="Databay showcase gif" width="250"/>
