@@ -19,8 +19,8 @@ dependencies:
   injectable: ^2.1.0
   json_annotation: ^4.8.0
   logger: ^1.1.0
-  dio: ^5.0.0
-  retrofit: ^4.0.1
+  dio: ^5.8.0+1
+  retrofit: ^4.4.2
   cupertino_icons: ^1.0.2
   flutter_screenutil: ^5.6.1
   equatable: ^2.0.5

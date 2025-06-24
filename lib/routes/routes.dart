@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_public_repository/domain/entities/post_model.dart';
-import 'package:flutter_public_repository/presentation/screen/post_detail_screen.dart';
-import 'package:flutter_public_repository/presentation/screen/posts_screen.dart';
+import 'package:flutter_public_repository/home/domain/entities/post_model.dart';
+import 'package:flutter_public_repository/home/presentation/screen/posts_screen.dart';
+import 'package:flutter_public_repository/post_detail/presentation/screen/post_detail_screen.dart';
 import 'package:go_router/go_router.dart';
 
 final GlobalKey<NavigatorState> _rootNavigatorKey = GlobalKey<NavigatorState>();

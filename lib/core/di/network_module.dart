@@ -19,6 +19,7 @@ abstract class NetworkModule {
         error: true,
         compact: true,
         maxWidth: 90));
+    dio.options.extra['withCredentials'] = true;
     return dio;
   }
 

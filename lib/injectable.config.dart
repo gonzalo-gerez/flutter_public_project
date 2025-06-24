@@ -11,23 +11,23 @@
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'package:dio/dio.dart' as _i4;
 import 'package:flutter_public_repository/core/di/network_module.dart' as _i13;
-import 'package:flutter_public_repository/data/local/database/app_database.dart'
+import 'package:flutter_public_repository/home/data/local/database/app_database.dart'
     as _i3;
-import 'package:flutter_public_repository/data/local/source/post_dao.dart'
+import 'package:flutter_public_repository/home/data/local/source/post_dao.dart'
     as _i5;
-import 'package:flutter_public_repository/data/local/source/post_local_source.dart'
+import 'package:flutter_public_repository/home/data/local/source/post_local_source.dart'
     as _i7;
-import 'package:flutter_public_repository/data/remote/service/post_service.dart'
+import 'package:flutter_public_repository/home/data/remote/service/post_service.dart'
     as _i8;
-import 'package:flutter_public_repository/data/remote/source/post_remote_source.dart'
+import 'package:flutter_public_repository/home/data/remote/source/post_remote_source.dart'
     as _i6;
-import 'package:flutter_public_repository/data/repository/post_repository_impl.dart'
+import 'package:flutter_public_repository/home/data/repository/post_repository_impl.dart'
     as _i10;
-import 'package:flutter_public_repository/domain/repository/post_repository.dart'
+import 'package:flutter_public_repository/home/domain/repository/post_repository.dart'
     as _i9;
-import 'package:flutter_public_repository/domain/usecases/get_post_list_usecase.dart'
+import 'package:flutter_public_repository/home/domain/usecases/get_post_list_usecase.dart'
     as _i11;
-import 'package:flutter_public_repository/presentation/bloc/post_list/post_list_bloc.dart'
+import 'package:flutter_public_repository/home/presentation/bloc/post_list/post_list_bloc.dart'
     as _i12;
 import 'package:get_it/get_it.dart' as _i1;
 import 'package:injectable/injectable.dart' as _i2;
