@@ -2,9 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_public_repository/core/resources/theme_colors.dart';
 import 'package:flutter_public_repository/injectable.dart';
-import 'package:flutter_public_repository/presentation/bloc/post_list/post_list_bloc.dart';
 import 'package:flutter_public_repository/routes/routes.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+import 'home/presentation/bloc/post_list/post_list_bloc.dart';
 
 class App extends StatefulWidget {
   const App({super.key});
